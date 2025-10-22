@@ -54,7 +54,7 @@ Using **Apache JMeter**, several test cases were created to simulate user action
 This report displays each individual sample request with metrics such as **Sample Time**, **Latency**, **Connect Time**, and **Status**.
 
 📷 **Screenshot:**  
-![View Results in Table](Table.PNG)
+![View Results in Table](table.PNG)
 
 ---
 
